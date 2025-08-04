@@ -24,6 +24,7 @@ PTMXH_Detai5/
 └── README.md                # Tài liệu hướng dẫn
 ```
 
+dataset: https://drive.google.com/drive/folders/1SyuiMaxUr1H5LeU1x9st2yzJguMl_4kD?usp=sharing
 ## Yêu Cầu Hệ Thống
 
 ### Thư Viện Python
