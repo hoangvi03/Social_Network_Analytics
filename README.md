@@ -264,7 +264,8 @@ Mô hình đạt được kết quả **khá tốt** với Silhouette Score 0.42
 
 ## Tác Giả
 
-Dự án thuộc Đề tài 5 - Chuyên đề Phân tích Mạng Xã Hội sinh viên:
+Dự án thuộc Đề tài 5 - Chuyên đề Phân tích Mạng Xã Hội 
+Sinh viên:
 - **Trần Hoàng Vĩ** - 2001216312
 **Trường:** HUIT (Trường Đại học Công Thương TP.HCM)
 
