@@ -266,6 +266,6 @@ Mô hình đạt được kết quả **khá tốt** với Silhouette Score 0.42
 
 Dự án thuộc Đề tài 5 - Chuyên đề Phân tích Mạng Xã Hội sinh viên:
 - **Trần Hoàng Vĩ** - 2001216312
-**Trường:** HUIT (Đại học Công nghiệp TP.HCM)
+**Trường:** HUIT (Đại học Công Thương TP.HCM)
 
 Dự án được phát triển cho mục đích học tập và nghiên cứu.
